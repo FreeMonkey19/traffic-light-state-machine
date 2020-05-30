@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "xstate": "^4.9.1"
+    "xstate": "^4.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
